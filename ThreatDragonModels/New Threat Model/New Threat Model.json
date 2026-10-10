@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-10-09",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Gabrielly Stochero",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Victor",
+    "threatTop": 0
+  }
+}
